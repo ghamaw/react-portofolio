@@ -93,6 +93,54 @@
   /* animation: profile__animate 8s ease-in-out infinite 1s; */
 }
 
+.portofolio__modal-img3 {
+  background: url(../../assets/rekatalokahome.PNG);
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: cover;
+  filter: grayscale(100%);
+  -webkit-filter: grayscale(100%);
+  box-shadow: inset 0 0 0 5px rgb(255 255 255 / 20%);
+  border-radius: 1.15rem;
+  justify-self: center;
+  width: 100%;
+  height: 200px;
+  margin-bottom: var(--mb-2);
+  /* animation: profile__animate 8s ease-in-out infinite 1s; */
+}
+
+.portofolio__modal-img4 {
+  background: url(../../assets/temanggung.PNG);
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: cover;
+  filter: grayscale(100%);
+  -webkit-filter: grayscale(100%);
+  box-shadow: inset 0 0 0 5px rgb(255 255 255 / 20%);
+  border-radius: 1.15rem;
+  justify-self: center;
+  width: 100%;
+  height: 200px;
+  margin-bottom: var(--mb-2);
+  /* animation: profile__animate 8s ease-in-out infinite 1s; */
+}
+
+.portofolio__modal-img5 {
+  background: url(../../assets/lppm.PNG);
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: cover;
+  filter: grayscale(100%);
+  -webkit-filter: grayscale(100%);
+  box-shadow: inset 0 0 0 5px rgb(255 255 255 / 20%);
+  border-radius: 1.15rem;
+  justify-self: center;
+  width: 100%;
+  height: 200px;
+  margin-bottom: var(--mb-2);
+  /* animation: profile__animate 8s ease-in-out infinite 1s; */
+}
+
 .portofolio__modal-link {
   text-align: center;
 }

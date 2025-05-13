@@ -56,9 +56,11 @@ const Data = () => {
             </h1>
 
 
-            <h3 className="home__subtitle">Web Developer</h3>
+            <h3 className="home__subtitle">Full-stack develope</h3>
             <p className="home__description">
-                Hey! I am a junior web developer with one year of working experience, specifically in developing web applications using the PHP as programming language. and i'm very passionate about learning a new technology
+                Full-stack developer with 3 years of experience building web and mobile applications using JavaScript, PHP, and
+                TypeScript. Skilled in developing responsive, modern user interfaces and intuitive user experiences. Passionate
+                about solving problems through clean, efficient code and contributing to innovative tech teams.
             </p>
             <a href="#contact" className="button button--flex">
                 Say Hello
